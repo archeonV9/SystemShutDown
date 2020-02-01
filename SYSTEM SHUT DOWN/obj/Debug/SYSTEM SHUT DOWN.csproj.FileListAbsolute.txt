@@ -1,0 +1,23 @@
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\bin\Debug\SYSTEM SHUT DOWN.exe.config
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\bin\Debug\SYSTEM SHUT DOWN.exe
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\bin\Debug\SYSTEM SHUT DOWN.pdb
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.Properties.Resources.resources
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.exe
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.pdb
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.START.resources
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.Form1.resources
+C:\Users\Asus\source\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.Autor.resources
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\bin\Debug\SYSTEM SHUT DOWN.exe.config
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\bin\Debug\SYSTEM SHUT DOWN.exe
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\bin\Debug\SYSTEM SHUT DOWN.pdb
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.csprojAssemblyReference.cache
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.Autor.resources
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.Form1.resources
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.Properties.Resources.resources
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM_SHUT_DOWN.START.resources
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.csproj.GenerateResource.cache
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.exe
+C:\Users\janiu\OneDrive\Pulpit\repos\SYSTEM SHUT DOWN\SYSTEM SHUT DOWN\obj\Debug\SYSTEM SHUT DOWN.pdb
